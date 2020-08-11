@@ -5,13 +5,13 @@
 <br />
 
 <p align="center">
-	<a href="https://github.com/Atul-Anand-Jha"><img src="https://img.shields.io/github/followers/Atul-Anand-Jha.svg?label=GitHub&style=social" alt="GitHub" height="30"></a>
-	<a href="https://twitter.com/Atul_Anand_Jha"><img src="https://img.shields.io/twitter/follow/Atul_Anand_Jha?label=Twitter&style=social" alt="Twitter" height="30"></a>
-	<a href="https://www.linkedin.com/in/atul-anand-jha"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="30"></a>
-	<a href="https://www.kaggle.com/atulanandjha"><img src="https://img.shields.io/badge/Kaggle-EXPERT-purple.svg?style=plastic&logo=kaggle" alt="Kaggle" height="30"></a>
-	<a href="https://public.tableau.com/profile/atul.anand3150#!/"><img src="https://img.shields.io/badge/TABLEAU-WIZARD-skyblue.svg?style=plastic&logo=tableau" alt="Tableau-Public" height="30"></a>
-	<a href="https://www.instagram.com/data_sutra/?hl=en"><img src="https://img.shields.io/badge/instagram--_.svg?style=social&logo=instagram" alt="Instagram" height="30"></a>
-	<a href="https://github.com/sponsors/Atul-Anand-Jha"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors" height="30"></a>
+	<a href="https://github.com/Atul-Anand-Jha"><img src="https://img.shields.io/github/followers/Atul-Anand-Jha.svg?label=GitHub&style=social" alt="GitHub" height="27"></a>
+	<a href="https://twitter.com/Atul_Anand_Jha"><img src="https://img.shields.io/twitter/follow/Atul_Anand_Jha?label=Twitter&style=social" alt="Twitter" height="27"></a>
+	<a href="https://www.linkedin.com/in/atul-anand-jha"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="27"></a>
+	<a href="https://www.kaggle.com/atulanandjha"><img src="https://img.shields.io/badge/Kaggle-EXPERT-purple.svg?style=plastic&logo=kaggle" alt="Kaggle" height="27"></a>
+	<a href="https://public.tableau.com/profile/atul.anand3150#!/"><img src="https://img.shields.io/badge/TABLEAU-WIZARD-skyblue.svg?style=plastic&logo=tableau" alt="Tableau-Public" height="27"></a>
+	<a href="https://www.instagram.com/data_sutra/?hl=en"><img src="https://img.shields.io/badge/instagram--_.svg?style=social&logo=instagram" alt="Instagram" height="27"></a>
+	<a href="https://github.com/sponsors/Atul-Anand-Jha"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors" height="27"></a>
 </p>
 
 <br />
@@ -23,7 +23,7 @@
 
 ## About Me : 
 
-I'm a **applied AI Engineer** who is passionate about making **ARTIFICIAL INTELLIGENCE** more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with various technology that includes :`Python, ELK stack (ElasticSearch, Logstash, Kibana), Machine Learning and Deep Learning.` I love exploring *State-Of-The-Art* Machine/Deep Learning models. Luckily, I do it on daily basis at my workplace. I don't want to limit myself, and I'm always eager to learn something that has huge impact on the ***Data World*** and to the general Community. I also Love Sharing my knowledge with others. I love **Mentoring Juniors**.
+I'm an **Applied AI Engineer** who is passionate about making **ARTIFICIAL INTELLIGENCE** more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with, include :`Python, ELK stack (ElasticSearch, Logstash, Kibana), Machine Learning and Deep Learning.` I love exploring *State-Of-The-Art* Machine/Deep Learning models. Luckily, I do it on daily basis at my workplace. I don't want to limit myself, and I'm always eager to learn something that has huge impact on the ***Data World*** and to the general Community. I also Love Sharing my knowledge with others. I love **Mentoring Juniors**.
 
 
 <br />
@@ -37,7 +37,7 @@ I'm a **applied AI Engineer** who is passionate about making **ARTIFICIAL INTELL
 - 🤔 I’m looking for help with **Open-Source Contribution** :-)
 - 💬 Ask me about anything, I am happy to help.
 - ⚡️ [**DataSutra**](https://www.youtube.com/channel/UCmBvVHMoPysYHalk_EmDJYg):My future Project which helps the community to better understand and leverage the applications of AI. 
-- Find the Page on [**Instagram**](https://www.instagram.com/data_sutra/?hl=en)
+- ⚡️ DataSutra --> [**Instagram**](https://www.instagram.com/data_sutra/?hl=en)
 - 📫 How to reach me: **LinkedIn** - I just love meeting people here.
 - 📝[Resume]() - **Coming Soon...**
 
