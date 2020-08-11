@@ -1,6 +1,9 @@
 # Hi, I'm Atul 👋🏾‍💻
 
 
+<br />
+<br />
+
 <p align="center">
 	<a href="https://github.com/Atul-Anand-Jha"><img src="https://img.shields.io/github/followers/Atul-Anand-Jha.svg?label=GitHub&style=social" alt="GitHub" height="30"></a>
 	<a href="https://twitter.com/Atul_Anand_Jha"><img src="https://img.shields.io/twitter/follow/Atul_Anand_Jha?label=Twitter&style=social" alt="Twitter" height="30"></a>
@@ -10,26 +13,13 @@
 	<a href="https://github.com/sponsors/Atul-Anand-Jha"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors" height="30"></a>
 </p>
 
+<br />
+<br />
+
 <img src="https://swisscognitive.ch/wp/wp-content/uploads/2016/12/anim_brain_side_header.gif" alt="Temporary GIF AI">
 I'm a AI engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
 
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="170" height="195" src="https://media-exp1.licdn.com/dms/image/C5103AQE682Anykh0Hg/profile-displayphoto-shrink_200_200/0?e=1602720000&v=beta&t=kEiOkKhKSXdmD7leuYkKCHCSEY0mQDucComHINImx7I?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
-
-
-
-<a href="https://twitter.com/adarshreddyash">
-  <img align="left" alt="Adarshreddyash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/adarshreddyash/">
-  <img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/adarshreddyash/">
-  <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <br />
 <br />
   
