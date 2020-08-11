@@ -17,7 +17,9 @@
 <br />
 
 <img src="https://swisscognitive.ch/wp/wp-content/uploads/2016/12/anim_brain_side_header.gif" alt="Temporary GIF AI">
-I'm a AI engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+
+<br />
+I'm a **applied AI Engineer** who is passionate about making **ARTIFICIAL INTELLIGENCE** more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with various technology that includes :`Python, ELK stack (ElasticSearch, Logstash, Kibana), Machine Learning and Deep Learning.` I love exploring *State-Of-The-Art* Machine/Deep Learning models. Luckily, I do it on daily basis at my workplace. I don't want to limit myself, and I'm always eager to learn something that has huge impact on the ***Data World*** and to the general Community. I also Love Sharing my knowledge with others. I love **Mentoring Juniors**.
 
 
 <br />
@@ -25,14 +27,15 @@ I'm a AI engineer who is passionate about making open-source more accessible, cr
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Ronix](https://github.com/Adarshreddyash/ronix-frontend);
-- 🌱 I’m currently learning GraphQL ,typescript and Kubernetes; 
-- 👯 I’m looking to collaborate on [Ronix](https://github.com/Adarshreddyash/ronix-frontend) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Vengixlabs:My future Project which helps in R&D for companies. 
-- 📫 How to reach me: adarshreddy9849@gmail.com;
-- 📝[Resume](https://adarshreddyash.me/assets/Adarshreddy's%20Resume.pdf)
+- 👨🏽‍💻 I’m currently working on **Research Methodologies in AI**.
+- 🌱 I’m currently learning Elastic-stack, D-S-A and Kubernetes.
+- 👯 I’m looking to collaborate on **Research Paper Publication** 🤝
+- 🤔 I’m looking for help with **Open-Source Contribution** :-)
+- 💬 Ask me about anything, I am happy to help.
+- ⚡️ ![DataSutra](https://www.youtube.com/channel/UCmBvVHMoPysYHalk_EmDJYg):My future Project which helps the community to better understand and leverage the applications of AI. 
+- Find the Page on ![**Instagram**](https://www.instagram.com/data_sutra/?hl=en)
+- 📫 How to reach me: **LinkedIn** - Ilove meeting people here.
+- 📝[Resume]() - **Coming Soon...**
 
 **Languages and Tools:**  
 
