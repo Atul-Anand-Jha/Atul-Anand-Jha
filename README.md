@@ -10,6 +10,7 @@
 	<a href="https://www.linkedin.com/in/atul-anand-jha"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="30"></a>
 	<a href="https://www.kaggle.com/atulanandjha"><img src="https://img.shields.io/badge/Kaggle-EXPERT-purple.svg?style=plastic&logo=kaggle" alt="Kaggle" height="30"></a>
 	<a href="https://public.tableau.com/profile/atul.anand3150#!/"><img src="https://img.shields.io/badge/TABLEAU-WIZARD-skyblue.svg?style=plastic&logo=tableau" alt="Tableau-Public" height="30"></a>
+	<a href="https://www.instagram.com/data_sutra/?hl=en"><img src="https://img.shields.io/badge/instagram--_.svg?style=social&logo=instagram" alt="Instagram" height="30"></a>
 	<a href="https://github.com/sponsors/Atul-Anand-Jha"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors" height="30"></a>
 </p>
 
@@ -19,25 +20,28 @@
 <img src="https://swisscognitive.ch/wp/wp-content/uploads/2016/12/anim_brain_side_header.gif" alt="Temporary GIF AI">
 
 <br />
+
+## About Me : 
+
 I'm a **applied AI Engineer** who is passionate about making **ARTIFICIAL INTELLIGENCE** more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with various technology that includes :`Python, ELK stack (ElasticSearch, Logstash, Kibana), Machine Learning and Deep Learning.` I love exploring *State-Of-The-Art* Machine/Deep Learning models. Luckily, I do it on daily basis at my workplace. I don't want to limit myself, and I'm always eager to learn something that has huge impact on the ***Data World*** and to the general Community. I also Love Sharing my knowledge with others. I love **Mentoring Juniors**.
 
 
 <br />
 <br />
   
-**Talking about Personal Stuffs:**
+## **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on **Research Methodologies in AI**.
 - 🌱 I’m currently learning Elastic-stack, D-S-A and Kubernetes.
 - 👯 I’m looking to collaborate on **Research Paper Publication** 🤝
 - 🤔 I’m looking for help with **Open-Source Contribution** :-)
 - 💬 Ask me about anything, I am happy to help.
-- ⚡️ ![DataSutra](https://www.youtube.com/channel/UCmBvVHMoPysYHalk_EmDJYg):My future Project which helps the community to better understand and leverage the applications of AI. 
-- Find the Page on ![**Instagram**](https://www.instagram.com/data_sutra/?hl=en)
-- 📫 How to reach me: **LinkedIn** - Ilove meeting people here.
+- ⚡️ [**DataSutra**](https://www.youtube.com/channel/UCmBvVHMoPysYHalk_EmDJYg):My future Project which helps the community to better understand and leverage the applications of AI. 
+- Find the Page on [**Instagram**](https://www.instagram.com/data_sutra/?hl=en)
+- 📫 How to reach me: **LinkedIn** - I just love meeting people here.
 - 📝[Resume]() - **Coming Soon...**
 
-**Languages and Tools:**  
+## **Languages and Tools:**  
 
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -54,4 +58,4 @@ I'm a **applied AI Engineer** who is passionate about making **ARTIFICIAL INTELL
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-# THANK YOU ! :-)
+## THANK YOU ! :-)
