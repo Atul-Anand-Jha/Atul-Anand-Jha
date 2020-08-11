@@ -5,10 +5,12 @@
 	<a href="https://github.com/Atul-Anand-Jha"><img src="https://img.shields.io/github/followers/Atul-Anand-Jha.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/Atul_Anand_Jha"><img src="https://img.shields.io/twitter/follow/Atul_Anand_Jha?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/atul-anand-jha"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.kaggle.com/atulanandjha"><img src="https://img.shields.io/badge/Kaggle-EXPERT-purple.svg?style=social&logo=linkedin" alt="Kaggle"></a>
+	<a href="https://public.tableau.com/profile/atul.anand3150#!/"><img src="hhttps://img.shields.io/badge/TABLEAU-WIZARD-skyblue.svg?style=social&logo=linkedin" alt="Tableau-Public"></a>
 	<a href="https://github.com/sponsors/Atul-Anand-Jha"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://swisscognitive.ch/wp/wp-content/uploads/2016/12/anim_brain_side_header.gif" alt="Temporary GIF AI">
 I'm a AI engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
 
 
