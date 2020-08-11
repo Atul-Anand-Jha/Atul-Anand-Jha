@@ -3,11 +3,11 @@
 
 <p align="center">
 	<a href="https://github.com/Atul-Anand-Jha"><img src="https://img.shields.io/github/followers/Atul-Anand-Jha.svg?label=GitHub&style=social" alt="GitHub" height="30"></a>
-	<a href="https://twitter.com/Atul_Anand_Jha"><img src="https://img.shields.io/twitter/follow/Atul_Anand_Jha?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/atul-anand-jha"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://www.kaggle.com/atulanandjha"><img src="https://img.shields.io/badge/Kaggle-EXPERT-purple.svg?style=plastic&logo=kaggle" alt="Kaggle"></a>
-	<a href="https://public.tableau.com/profile/atul.anand3150#!/"><img src="https://img.shields.io/badge/TABLEAU-WIZARD-skyblue.svg?style=plastic&logo=tableau" alt="Tableau-Public"></a>
-	<a href="https://github.com/sponsors/Atul-Anand-Jha"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
+	<a href="https://twitter.com/Atul_Anand_Jha"><img src="https://img.shields.io/twitter/follow/Atul_Anand_Jha?label=Twitter&style=social" alt="Twitter" height="30"></a>
+	<a href="https://www.linkedin.com/in/atul-anand-jha"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="30"></a>
+	<a href="https://www.kaggle.com/atulanandjha"><img src="https://img.shields.io/badge/Kaggle-EXPERT-purple.svg?style=plastic&logo=kaggle" alt="Kaggle" height="30"></a>
+	<a href="https://public.tableau.com/profile/atul.anand3150#!/"><img src="https://img.shields.io/badge/TABLEAU-WIZARD-skyblue.svg?style=plastic&logo=tableau" alt="Tableau-Public" height="30"></a>
+	<a href="https://github.com/sponsors/Atul-Anand-Jha"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors" height="30"></a>
 </p>
 
 <img src="https://swisscognitive.ch/wp/wp-content/uploads/2016/12/anim_brain_side_header.gif" alt="Temporary GIF AI">
