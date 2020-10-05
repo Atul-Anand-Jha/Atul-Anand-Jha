@@ -5,13 +5,14 @@
 <br />
 
 <p align="center">
-	<a href="https://github.com/Atul-Anand-Jha"><img src="https://img.shields.io/github/followers/Atul-Anand-Jha.svg?label=GitHub&style=social" alt="GitHub" height="22"></a>
-	<a href="https://twitter.com/Atul_Anand_Jha"><img src="https://img.shields.io/twitter/follow/Atul_Anand_Jha?label=Twitter&style=social" alt="Twitter" height="22"></a>
-	<a href="https://www.linkedin.com/in/atul-anand-jha"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="22"></a>
-	<a href="https://www.kaggle.com/atulanandjha"><img src="https://img.shields.io/badge/Kaggle-EXPERT-purple.svg?style=plastic&logo=kaggle" alt="Kaggle" height="22"></a>
-	<a href="https://public.tableau.com/profile/atul.anand3150#!/"><img src="https://img.shields.io/badge/TABLEAU-WIZARD-skyblue.svg?style=plastic&logo=tableau" alt="Tableau-Public" height="22"></a>
-	<a href="https://www.instagram.com/data_sutra/?hl=en"><img src="https://img.shields.io/badge/instagram--_.svg?style=social&logo=instagram" alt="Instagram" height="22"></a>
-	<a href="https://github.com/sponsors/Atul-Anand-Jha"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors" height="22"></a>
+	<a href="https://github.com/Atul-Anand-Jha"><img src="https://img.shields.io/github/followers/Atul-Anand-Jha.svg?label=GitHub&style=social" alt="GitHub" height="20"></a>
+	<a href="https://twitter.com/Atul_Anand_Jha"><img src="https://img.shields.io/twitter/follow/Atul_Anand_Jha?label=Twitter&style=social" alt="Twitter" height="20"></a>
+	<a href="https://www.linkedin.com/in/atul-anand-jha"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="20"></a>
+	<a href="https://www.kaggle.com/atulanandjha"><img src="https://img.shields.io/badge/Kaggle-EXPERT-purple.svg?style=plastic&logo=kaggle" alt="Kaggle" height="20"></a>
+	<a href="https://public.tableau.com/profile/atul.anand3150#!/"><img src="https://img.shields.io/badge/TABLEAU-WIZARD-skyblue.svg?style=plastic&logo=tableau" alt="Tableau-Public" height="20"></a>
+	<a href="https://public.tableau.com/profile/atul.anand3150#!/"><img src="https://img.shields.io/badge/DataSutra--_.svg?style=social&logo=youtube" alt="YouTube" height="20"></a>
+	<a href="https://www.instagram.com/data_sutra/?hl=en"><img src="https://img.shields.io/badge/instagram--_.svg?style=social&logo=instagram" alt="Instagram" height="20"></a>
+	<a href="https://github.com/sponsors/Atul-Anand-Jha"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors" height="20"></a>
 </p>
 
 <br />
