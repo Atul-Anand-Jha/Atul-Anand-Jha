@@ -37,7 +37,7 @@ I'm an **Applied AI Engineer** who is passionate about making **ARTIFICIAL INTEL
 - 🤔 I’m looking for help with **Open-Source Contribution** :-)
 - 💬 Ask me about anything, I am happy to help.
 - ⚡️ [**DataSutra**](https://www.youtube.com/channel/UCmBvVHMoPysYHalk_EmDJYg):My future Project which helps the community to better understand and leverage the applications of AI. 
-- ⚡️ DataSutra --> [**Instagram**](https://www.instagram.com/data_sutra/?hl=en)
+- ⚡️ DataSutra --> [**YouTube**](https://www.youtube.com/channel/UCmBvVHMoPysYHalk_EmDJYg) **&** [**Instagram**](https://www.instagram.com/data_sutra/?hl=en)
 - 📫 How to reach me: **LinkedIn** - I just love meeting people here.
 - 📝[Resume]() - **Coming Soon...**
 
