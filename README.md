@@ -1,4 +1,4 @@
-# Hi, I'm Atul 👋🏾‍💻
+# Hi, I'm Atul 👋🏾‍💻		--------==>	![Profile Views Counter](https://komarev.com/ghpvc/?username=Atul-Anand-Jha&label=PROFILE+VIEWS&color=green) </pre>
 
 
 <br />
@@ -33,7 +33,7 @@ I'm an **Applied AI Engineer** who is passionate about making **ARTIFICIAL INTEL
 ## **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on **Research Methodologies in AI**.
-- 🌱 I’m currently learning Elastic-stack, D-S-A and Kubernetes.
+- 🌱 I’m currently learning Elastic-stack, D-S-A and Kubernetes.	
 - 👯 I’m looking to collaborate on **Research Paper Publication** 🤝
 - 🤔 I’m looking for help with **Open-Source Contribution** :-)
 - 💬 Ask me about anything, I am happy to help.
