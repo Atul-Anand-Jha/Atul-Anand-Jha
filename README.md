@@ -59,4 +59,6 @@ I'm an **Applied AI Engineer** who is passionate about making **ARTIFICIAL INTEL
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
+<p><br/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Atul-Anand-Jha&show_icons=true&locale=en" alt="Atul-Anand-Jha" /></p>
+
 ## THANK YOU ! :-)
