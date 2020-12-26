@@ -40,7 +40,7 @@ I'm an **Applied AI Engineer** who is passionate about making **ARTIFICIAL INTEL
 - ⚡️ [**DataSutra**](https://www.youtube.com/channel/UCmBvVHMoPysYHalk_EmDJYg):My future Project which helps the community to better understand and leverage the applications of AI. 
 - ⚡️ DataSutra --> [**YouTube**](https://www.youtube.com/channel/UCmBvVHMoPysYHalk_EmDJYg) **&** [**Instagram**](https://www.instagram.com/data_sutra/?hl=en)
 - 📫 How to reach me: **LinkedIn** - I just love meeting people here.
-- 📝[Resume]() - **Coming Soon...**
+- 📝[Resume](https://github.com/Atul-Anand-Jha/Atul-Anand-Jha/blob/master/Atul-Anand-Resume_Dark.pdf) - **Click on "Resume"**
 
 ## **Languages and Tools:**  
 
